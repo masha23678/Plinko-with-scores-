@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../asynchronousBallMovement-master"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "PLINKO-WITH-SCORES-PROJECT-33-master"
+	}
+}
